@@ -1,0 +1,14 @@
+C:\Users\uzair khan\source\repos\PatrolePumpSceduler\PatrolePumpSceduler\obj\Debug\PatrolePumpSceduler.csproj.CoreCompileInputs.cache
+C:\Users\uzair khan\source\repos\PatrolePumpSceduler\PatrolePumpSceduler\bin\Debug\PatrolePumpSceduler.exe.config
+C:\Users\uzair khan\source\repos\PatrolePumpSceduler\PatrolePumpSceduler\bin\Debug\PatrolePumpSceduler.exe
+C:\Users\uzair khan\source\repos\PatrolePumpSceduler\PatrolePumpSceduler\bin\Debug\PatrolePumpSceduler.pdb
+C:\Users\uzair khan\source\repos\PatrolePumpSceduler\PatrolePumpSceduler\obj\Debug\PatrolePumpSceduler.exe
+C:\Users\uzair khan\source\repos\PatrolePumpSceduler\PatrolePumpSceduler\obj\Debug\PatrolePumpSceduler.pdb
+C:\Users\uzair khan\source\repos\PatrolePumpSceduler\PatrolePumpSceduler\obj\Debug\PatrolePumpSceduler.csprojAssemblyReference.cache
+C:\Users\Aphil\OneDrive\Desktop\CSharp Assignment\PatrolePumpSceduler\bin\Debug\PatrolePumpSceduler.exe.config
+C:\Users\Aphil\OneDrive\Desktop\CSharp Assignment\PatrolePumpSceduler\bin\Debug\PatrolePumpSceduler.exe
+C:\Users\Aphil\OneDrive\Desktop\CSharp Assignment\PatrolePumpSceduler\bin\Debug\PatrolePumpSceduler.pdb
+C:\Users\Aphil\OneDrive\Desktop\CSharp Assignment\PatrolePumpSceduler\obj\Debug\PatrolePumpSceduler.csprojAssemblyReference.cache
+C:\Users\Aphil\OneDrive\Desktop\CSharp Assignment\PatrolePumpSceduler\obj\Debug\PatrolePumpSceduler.csproj.CoreCompileInputs.cache
+C:\Users\Aphil\OneDrive\Desktop\CSharp Assignment\PatrolePumpSceduler\obj\Debug\PatrolePumpSceduler.exe
+C:\Users\Aphil\OneDrive\Desktop\CSharp Assignment\PatrolePumpSceduler\obj\Debug\PatrolePumpSceduler.pdb
